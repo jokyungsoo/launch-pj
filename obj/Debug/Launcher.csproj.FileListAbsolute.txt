@@ -1,0 +1,41 @@
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\User\Desktop\launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\User\Desktop\launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\User\Desktop\launcher\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\launcher\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.exe
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.pdb
+C:\Users\MYPC\Desktop\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\MYPC\Desktop\Launcher\bin\Debug\Launcher.exe
+C:\Users\MYPC\Desktop\Launcher\bin\Debug\Launcher.pdb
+C:\Users\MYPC\Desktop\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MYPC\Desktop\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\MYPC\Desktop\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\bin\Debug\Launcher.exe
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\bin\Debug\Launcher.pdb
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.exe
+C:\Users\rudtn\OneDrive\바탕 화면\project\Launcher\obj\Debug\Launcher.pdb
